@@ -23,8 +23,8 @@ namespace Sogeti_SampleApplication
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Button Click Successful");
-            clicks += 1;
+            //MessageBox.Show("Button Click Successful");
+            clicks += 5;
             label2.Text = clicks.ToString();
         }
     }
