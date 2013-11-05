@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sogeti_SampleApplication", "Sogeti_SampleApplication\Sogeti_SampleApplication.csproj", "{F175C0F0-7B28-4690-83EE-2B0B822C011E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sogeti_SampleApplication_UnitTests", "Sogeti_SampleApplication_UnitTests\Sogeti_SampleApplication_UnitTests.csproj", "{D431FD3D-E72F-4D5A-9B3A-4EA3D38C57B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{F175C0F0-7B28-4690-83EE-2B0B822C011E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F175C0F0-7B28-4690-83EE-2B0B822C011E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F175C0F0-7B28-4690-83EE-2B0B822C011E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D431FD3D-E72F-4D5A-9B3A-4EA3D38C57B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D431FD3D-E72F-4D5A-9B3A-4EA3D38C57B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D431FD3D-E72F-4D5A-9B3A-4EA3D38C57B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D431FD3D-E72F-4D5A-9B3A-4EA3D38C57B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

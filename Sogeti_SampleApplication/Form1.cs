@@ -27,5 +27,11 @@ namespace Sogeti_SampleApplication
             clicks += 5;
             label2.Text = clicks.ToString();
         }
+
+        public static int AddMethod(int x, int y)
+        {
+            int z = x + y;
+            return z;
+        }
     }
 }
