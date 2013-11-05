@@ -12,7 +12,7 @@ namespace Sogeti_SampleApplication_UnitTests
         public void TestMethod1()
         {
             int a = Form1.AddMethod(1,2);
-            Assert.AreEqual(a, 3, "Test failed");
+            Assert.AreEqual(a, 4, "Test failed");
         }
     }
 }
